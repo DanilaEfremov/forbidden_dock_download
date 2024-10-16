@@ -7,7 +7,7 @@
 Устанавливаем виртуальное окружение:
 ```
 python3.12 -m venv venv
-source venv/bin/activat
+source venv/bin/activatе
 ```
 
 Обновляем pip:
